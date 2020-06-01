@@ -17,3 +17,4 @@ Data Science and AI in the Real World
 Learners will receive the ‘Foundations in AI’ certificate upon successful completion of all modules
 
 ##Loading my quiz answers notebook here as well as other associated projects within Makerspace
+Please do attempt them yourself and check back your results here! Cheers!
